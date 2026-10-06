@@ -1,4 +1,4 @@
-<img src="banner.jpg" alt="Project Screenshot" width="100%">
+<img src="banner.gif" alt="Project Screenshot" width="100%">
 
 # Hi, I'm Emad 👋
 
@@ -26,3 +26,6 @@ Persian (native) · English
 
 📫 Feel free to reach out or open an issue on any of my repos.
 
+
+
+<img src="banner.jpg" alt="Project Screenshot" width="100%">
