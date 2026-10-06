@@ -1,3 +1,5 @@
+<img src="banner.jpg" alt="Project Screenshot" width="100%">
+
 # Hi, I'm Emad 👋
 
 Software engineer who likes understanding how things work from the ground up.
